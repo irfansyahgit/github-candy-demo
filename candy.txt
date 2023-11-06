@@ -1,1 +1,2 @@
 candy
+add 1 candy
