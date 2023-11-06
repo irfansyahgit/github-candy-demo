@@ -1,2 +1,3 @@
 candy
-add 1 candy
+add 1st candy
+add 2nd candy
